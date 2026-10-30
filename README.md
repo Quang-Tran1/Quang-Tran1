@@ -7,8 +7,8 @@
 
 # Hello! 👋
 
-My name is Quang. I'm a software developer and designer that wields Java, Javascript, and Python. <br><br>
-I enjoy dabbling in web design using frameworks such as React. <br><br>
-I'm all about creating joyful applications, and I'm always looking to learn about the cutting edge in this rapidly changing tech world.
+### My name is Quang. I'm a software developer and designer that wields Java, Javascript, and Python. <br><br>
+### I enjoy dabbling in web design using frameworks such as React. <br><br>
+### I'm all about creating joyful applications, and I'm always looking to learn about the cutting edge in this rapidly changing tech world.
 
 
